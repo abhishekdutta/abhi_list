@@ -2,7 +2,7 @@
 
 ## Computer Graphics Project
 
-### Graphics Package of 10 menu driven programs
+### Graphics Package of 10 menu driven programs using mouse as user input
 
 1. Install OpenGL Library and Packages
 
