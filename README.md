@@ -10,15 +10,14 @@
 
 3. Compile the C code using Standard GCC Compiler
 		
-	- For Unix:-
-		gcc cg.c
-	- For Windows:-
+	- For Unix:-<br>
+		gcc cg.c<br><br>
+	- For Windows:-<br>
 		- Compile using IDE
 
 4. Execute the code 
 
-	- For Unix:-
-		./a.out 
-
-	- For Windows:-
+	- For Unix:-<br>
+		./a.out <br><br>
+	- For Windows:-<br>
 		- Execute using IDE
